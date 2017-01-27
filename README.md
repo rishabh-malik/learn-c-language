@@ -29,11 +29,11 @@ Make the given pattern.
 ----
 ## Problem 5:
 Make the given pattern.
->    *
->   **
->  ***
-> ****
->*****
+1.    *
+2.   **
+3.  ***
+4. ****
+5.*****
 ### Answer. See c_pttrn.cpp
 ----
 ## Problem 6:
@@ -46,10 +46,10 @@ To print the square of nos from 1 to 10.
 ----
 ## Problem 5:
 Make the given pattern.
->*
->**
->***
->****
->*****
+1.*
+2.**
+3.***
+4.****
+5.*****
 ### Answer. See c_star_pattern.cpp
 ----
