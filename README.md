@@ -11,29 +11,29 @@ To determine whether the no is even or odd.
 ----
 ## Problem 3:
 Make the given pattern.
-1
-12
-123
-1234
-12345
+>1
+>12
+>123
+>1234
+>12345
 ### Answer. See c_no_pattern.cpp
 ----
 ## Problem 4:
 Make the given pattern.
-1
-22
-333
-4444
-55555
+>1
+>22
+>333
+>4444
+>55555
 ### Answer. See c_pattern.cpp
 ----
 ## Problem 5:
 Make the given pattern.
-     *
-    **
-   ***
-  ****
- *****
+>    *
+>   **
+>  ***
+> ****
+>*****
 ### Answer. See c_pttrn.cpp
 ----
 ## Problem 6:
@@ -46,10 +46,10 @@ To print the square of nos from 1 to 10.
 ----
 ## Problem 5:
 Make the given pattern.
-*
-**
-***
-****
-*****
+>*
+>**
+>***
+>****
+>*****
 ### Answer. See c_star_pattern.cpp
 ----
