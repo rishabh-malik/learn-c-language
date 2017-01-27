@@ -10,30 +10,15 @@ To determine whether the no is even or odd.
 ### Answer. See c_even_odd.cpp
 ----
 ## Problem 3:
-Make the given pattern.
->1
->12
->123
->1234
->12345
+Make the number pattern-1.
 ### Answer. See c_no_pattern.cpp
 ----
 ## Problem 4:
-Make the given pattern.
->1
->22
->333
->4444
->55555
+Make the number pattern-2.
 ### Answer. See c_pattern.cpp
 ----
 ## Problem 5:
-Make the given pattern.
-1.    *
-2.   **
-3.  ***
-4. ****
-5.*****
+Make the star pattern-1.
 ### Answer. See c_pttrn.cpp
 ----
 ## Problem 6:
@@ -44,12 +29,7 @@ To see the use of if else statement.
 To print the square of nos from 1 to 10.
 ### Answer. See c_square.cpp
 ----
-## Problem 5:
-Make the given pattern.
-1.*
-2.**
-3.***
-4.****
-5.*****
+## Problem 8:
+Make the star pattern-2.
 ### Answer. See c_star_pattern.cpp
 ----
