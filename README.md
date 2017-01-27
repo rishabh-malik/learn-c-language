@@ -1,6 +1,26 @@
 # learn-c-language
-It contains all the programs problems for you to easily learn c language.
+Here you will find all the useful resources for html learning. hope this will help you.
+It contains all the programs problems for you to easily learn c language. happy learning.
 ----
+# C LANGUAGE RESOURCES
+----
+##VIDEO TUTORIALS
+>[C Tutorial for Beginners](https://www.youtube.com/watch?v=-CpG3oATGIs)
+----
+##Rules of C
+>[Tutorial Point](https://www.tutorialspoint.com/cprogramming/)
+----
+###Books And Resources
+>[Learn C](http://www.learn-c.org/)
+>[Online Programming Books](http://www.onlineprogrammingbooks.com/c/)
+----
+##Apps to help you learn C Language
+>1.
+           
+>2.
+----
+# Sample problems
+
 ## Problem 1:
 To see the equivalent ASCII code of a character.
 ### Answer. See c_ascii.cpp
