@@ -1,5 +1,5 @@
 # learn-c-language
-Here you will find all the useful resources for html learning. hope this will help you.
+Here you will find all the useful resources for C language learning. hope this will help you.
 It contains all the programs problems for you to easily learn c language. happy learning.
 ----
 # C LANGUAGE RESOURCES
