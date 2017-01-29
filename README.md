@@ -15,9 +15,9 @@ It contains all the programs problems for you to easily learn c language. happy 
 >[Online Programming Books](http://www.onlineprogrammingbooks.com/c/)
 ----
 ##Apps to help you learn C Language
->1.
+>1.[Learn C](https://play.google.com/store/apps/details?id=com.reezx.android.learncprogramming)
            
->2.
+>2.[Learn C Programming](https://play.google.com/store/apps/details?id=sgdevelopers.learn_c_programming)
 ----
 # Sample problems
 
